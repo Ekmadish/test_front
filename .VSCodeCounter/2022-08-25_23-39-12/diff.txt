@@ -1,0 +1,180 @@
+Date : 2022-08-25 23:39:12
+Directory : /Users/estai/Desktop/W/tasu_front/lib
+Total : 87 files,  3834 codes, 664 comments, 362 blanks, all 4860 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         87 |      3,834 |        664 |        362 |      4,860 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                            | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                               |         87 |      3,834 |        664 |        362 |      4,860 |
+| admin                                                                                           |         29 |        818 |        102 |         63 |        983 |
+| admin/data                                                                                      |          1 |         14 |          6 |         -1 |         19 |
+| admin/data/services                                                                             |          1 |         14 |          6 |         -1 |         19 |
+| admin/futures                                                                                   |         20 |      1,750 |        196 |        129 |      2,075 |
+| admin/futures/admin_list                                                                        |          5 |        507 |         33 |         40 |        580 |
+| admin/futures/admin_list/data                                                                   |          1 |         16 |          1 |          0 |         17 |
+| admin/futures/admin_list/provider                                                               |          1 |        256 |         11 |         34 |        301 |
+| admin/futures/admin_list/view                                                                   |          3 |        235 |         21 |          6 |        262 |
+| admin/futures/auth                                                                              |          2 |          2 |          7 |          2 |         11 |
+| admin/futures/auth/login                                                                        |          2 |          2 |          7 |          2 |         11 |
+| admin/futures/auth/login/cubit                                                                  |          1 |          4 |          1 |          1 |          6 |
+| admin/futures/auth/login/view                                                                   |          1 |         -2 |          6 |          1 |          5 |
+| admin/futures/company                                                                           |          5 |        771 |        143 |         54 |        968 |
+| admin/futures/company/data                                                                      |          1 |          0 |          0 |         -1 |         -1 |
+| admin/futures/company/provider                                                                  |          1 |        253 |         17 |         37 |        307 |
+| admin/futures/company/view                                                                      |          3 |        518 |        126 |         18 |        662 |
+| admin/futures/home                                                                              |          1 |        -10 |         -2 |          0 |        -12 |
+| admin/futures/home/cubit                                                                        |          1 |        -10 |         -2 |          0 |        -12 |
+| admin/futures/profile                                                                           |          3 |         17 |          1 |         -6 |         12 |
+| admin/futures/profile/cubit                                                                     |          2 |        -13 |          0 |         -7 |        -20 |
+| admin/futures/user_list                                                                         |          4 |        463 |         14 |         39 |        516 |
+| admin/futures/user_list/model                                                                   |          1 |          1 |          0 |          0 |          1 |
+| admin/futures/user_list/provider                                                                |          1 |        247 |         12 |         36 |        295 |
+| admin/futures/user_list/view                                                                    |          2 |        215 |          2 |          3 |        220 |
+| admin/view                                                                                      |          7 |       -975 |       -105 |        -67 |     -1,147 |
+| admin/view/widget                                                                               |          7 |       -975 |       -105 |        -67 |     -1,147 |
+| client                                                                                          |         21 |      1,041 |         98 |         70 |      1,209 |
+| client/data                                                                                     |          2 |         14 |          2 |         -1 |         15 |
+| client/futures                                                                                  |         17 |        734 |         85 |         65 |        884 |
+| client/futures/auth                                                                             |          5 |         44 |         -2 |          7 |         49 |
+| client/futures/auth/cubit                                                                       |          4 |          2 |          0 |          3 |          5 |
+| client/futures/auth/login                                                                       |          1 |         42 |         -2 |          4 |         44 |
+| client/futures/calendar                                                                         |          1 |         10 |          0 |          3 |         13 |
+| client/futures/calendar/view                                                                    |          1 |         10 |          0 |          3 |         13 |
+| client/futures/carriers                                                                         |          1 |         10 |          0 |          3 |         13 |
+| client/futures/carriers/view                                                                    |          1 |         10 |          0 |          3 |         13 |
+| client/futures/clients                                                                          |          1 |         10 |          0 |          3 |         13 |
+| client/futures/clients/view                                                                     |          1 |         10 |          0 |          3 |         13 |
+| client/futures/documents                                                                        |          1 |         10 |          0 |          3 |         13 |
+| client/futures/documents/view                                                                   |          1 |         10 |          0 |          3 |         13 |
+| client/futures/finance                                                                          |          1 |         10 |          0 |          4 |         14 |
+| client/futures/finance/view                                                                     |          1 |         10 |          0 |          4 |         14 |
+| client/futures/home                                                                             |          1 |        601 |         87 |         32 |        720 |
+| client/futures/home/view                                                                        |          1 |        601 |         87 |         32 |        720 |
+| client/futures/orders                                                                           |          1 |          8 |          0 |          3 |         11 |
+| client/futures/orders/view                                                                      |          1 |          8 |          0 |          3 |         11 |
+| client/futures/reports                                                                          |          1 |         10 |          0 |          3 |         13 |
+| client/futures/reports/view                                                                     |          1 |         10 |          0 |          3 |         13 |
+| client/futures/request                                                                          |          1 |         11 |          0 |          3 |         14 |
+| client/futures/request/view                                                                     |          1 |         11 |          0 |          3 |         14 |
+| client/futures/tasks                                                                            |          1 |         10 |          0 |          3 |         13 |
+| client/futures/tasks/view                                                                       |          1 |         10 |          0 |          3 |         13 |
+| client/futures/user                                                                             |          1 |        -12 |          0 |         -3 |        -15 |
+| client/futures/user/view                                                                        |          1 |        -12 |          0 |         -3 |        -15 |
+| client/view                                                                                     |          1 |        147 |         11 |          4 |        162 |
+| datatable                                                                                       |         16 |        916 |         56 |         91 |      1,063 |
+| datatable/base                                                                                  |          1 |         27 |          3 |          2 |         32 |
+| datatable/model                                                                                 |          3 |         23 |          0 |          7 |         30 |
+| datatable/provider                                                                              |          2 |        206 |         17 |         28 |        251 |
+| datatable/widget                                                                                |          5 |        308 |         29 |         24 |        361 |
+| devtools                                                                                        |          1 |          2 |          0 |          3 |          5 |
+| global                                                                                          |         18 |        917 |        352 |        115 |      1,384 |
+| global/config                                                                                   |          3 |        256 |         79 |         31 |        366 |
+| global/config/constant                                                                          |          2 |         13 |          0 |          2 |         15 |
+| global/config/router                                                                            |          1 |        243 |         79 |         29 |        351 |
+| global/data                                                                                     |          7 |         -8 |         61 |          6 |         59 |
+| global/data/provider                                                                            |          4 |        -54 |         54 |          1 |          1 |
+| global/utils                                                                                    |          3 |        -26 |        156 |         31 |        161 |
+| global/widgets                                                                                  |          5 |        695 |         56 |         47 |        798 |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                        | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/estai/Desktop/W/tasu_front/lib/admin/admin.dart                                          | Dart     |         29 |          5 |          2 |         36 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/data/services/admin_repository.dart                 | Dart     |         14 |          6 |         -1 |         19 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/admin_list/data/admin_datasource.dart       | Dart     |         16 |          1 |          0 |         17 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/admin_list/provider/admin_provider.dart     | Dart     |        256 |         11 |         34 |        301 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/admin_list/view/admin_addupdate_screen.dart | Dart     |         -1 |          0 |          0 |         -1 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/admin_list/view/admin_list_screen.dart      | Dart     |         30 |         -2 |          1 |         29 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/admin_list/view/admin_new_screen.dart       | Dart     |        206 |         23 |          5 |        234 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/auth/login/cubit/login_cubit.dart           | Dart     |          4 |          1 |          1 |          6 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/auth/login/view/login_screen.dart           | Dart     |         -2 |          6 |          1 |          5 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/company/data/company_datasource.dart        | Dart     |          0 |          0 |         -1 |         -1 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/company/provider/company_provider.dart      | Dart     |        253 |         17 |         37 |        307 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/company/view/addupdate_screen.dart          | Dart     |         -2 |          0 |          0 |         -2 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/company/view/company_new_screen.dart        | Dart     |        213 |         12 |          4 |        229 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/company/view/company_screen.dart            | Dart     |        307 |        114 |         14 |        435 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/home/cubit/admin_cubit.dart                 | Dart     |        -10 |         -2 |          0 |        -12 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/profile/cubit/profile_cubit.dart            | Dart     |         -6 |          0 |         -3 |         -9 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/profile/cubit/profile_state.dart            | Dart     |         -7 |          0 |         -4 |        -11 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/profile/profile_screen.dart                 | Dart     |         30 |          1 |          1 |         32 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/user_list/model/trans_user_model.dart       | Dart     |          1 |          0 |          0 |          1 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/user_list/provider/user_provider.dart       | Dart     |        247 |         12 |         36 |        295 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/user_list/view/user_list_screen.dart        | Dart     |          9 |          0 |          0 |          9 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/futures/user_list/view/user_new_list.dart           | Dart     |        206 |          2 |          3 |        211 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/adaptive_scafold_widget.dart            | Dart     |          0 |        -14 |         -1 |        -15 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/config.dart                             | Dart     |        -34 |          0 |         -1 |        -35 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/dataperpage_widget.dart                 | Dart     |         -1 |          1 |          0 |          0 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/datatable_widget.dart                   | Dart     |          3 |         -1 |          0 |          2 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/header_widget.dart                      | Dart     |        -39 |          1 |         -1 |        -39 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/share_scafold_widget.dart               | Dart     |          0 |          0 |         -2 |         -2 |
+| /Users/estai/Desktop/W/tasu_front/lib/admin/view/widget/textfileds_widget.dart                  | Dart     |       -904 |        -92 |        -62 |     -1,058 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/client.dart                                        | Dart     |        146 |          0 |          2 |        148 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/data/c_repository.dart                             | Dart     |         27 |          2 |          4 |         33 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/data/client_state.dart                             | Dart     |        -13 |          0 |         -5 |        -18 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/auth/cubit/clogin_cubit.dart               | Dart     |        -40 |          0 |         -7 |        -47 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/auth/cubit/clogin_state.dart               | Dart     |        -47 |          0 |         -3 |        -50 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/auth/cubit/login_cubit.dart                | Dart     |         42 |          0 |         10 |         52 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/auth/cubit/login_state.dart                | Dart     |         47 |          0 |          3 |         50 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/auth/login/login_screen.dart               | Dart     |         42 |         -2 |          4 |         44 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/calendar/view/calendar_screen.dart         | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/carriers/view/carriers_screen.dart         | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/clients/view/clients_screen.dart           | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/documents/view/documents_screen.dart       | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/finance/view/finance_screen.dart           | Dart     |         10 |          0 |          4 |         14 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/futures.dart                               | Dart     |         12 |          0 |          1 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/home/view/home_screen.dart                 | Dart     |        601 |         87 |         32 |        720 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/orders/view/orders_screen.dart             | Dart     |          8 |          0 |          3 |         11 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/reports/view/reports_screen.dart           | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/request/view/request_screen.dart           | Dart     |         11 |          0 |          3 |         14 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/tasks/view/tasks_screen.dart               | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/futures/user/view/user_screen.dart                 | Dart     |        -12 |          0 |         -3 |        -15 |
+| /Users/estai/Desktop/W/tasu_front/lib/client/view/shared_screen.dart                            | Dart     |        147 |         11 |          4 |        162 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/base/base_controller.dart                       | Dart     |         27 |          3 |          2 |         32 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/datatable.dart                                  | Dart     |          6 |          0 |          1 |          7 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/model/headr_model.dart                          | Dart     |         10 |          0 |          3 |         13 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/model/model.dart                                | Dart     |          2 |          0 |          1 |          3 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/model/row_model.dart                            | Dart     |         11 |          0 |          3 |         14 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/multiplication_table.dart                       | Dart     |        145 |          1 |          7 |        153 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/provider/table_provider.dart                    | Dart     |        155 |         17 |         22 |        194 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/provider/table_state.dart                       | Dart     |         51 |          0 |          6 |         57 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/table_body.dart                                 | Dart     |         61 |          4 |          8 |         73 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/table_cell.dart                                 | Dart     |         92 |          1 |          7 |        100 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/table_head.dart                                 | Dart     |         48 |          1 |          7 |         56 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/widget/checkbox_widget.dart                     | Dart     |         27 |          0 |          3 |         30 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/widget/colum_widget.dart                        | Dart     |         56 |          2 |          5 |         63 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/widget/nav_widget.dart                          | Dart     |        183 |         27 |         12 |        222 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/widget/row_widget.dart                          | Dart     |         38 |          0 |          3 |         41 |
+| /Users/estai/Desktop/W/tasu_front/lib/datatable/widget/widget.dart                              | Dart     |          4 |          0 |          1 |          5 |
+| /Users/estai/Desktop/W/tasu_front/lib/devtools/dev_tool.dart                                    | Dart     |          2 |          0 |          3 |          5 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/config/constant/auth_state.dart                    | Dart     |         14 |          0 |          3 |         17 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/config/constant/auth_state_enum.dart               | Dart     |         -1 |          0 |         -1 |         -2 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/config/router/route.dart                           | Dart     |        243 |         79 |         29 |        351 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/main_state.dart                               | Dart     |         33 |          7 |          3 |         43 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/provider/auth_provider.dart                   | Dart     |        -27 |          0 |         -6 |        -33 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/provider/auth_provider_admin.dart             | Dart     |          0 |         27 |          7 |         34 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/provider/auth_provider_client.dart            | Dart     |          0 |         27 |          7 |         34 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/provider/c_auth_provider.dart                 | Dart     |        -27 |          0 |         -7 |        -34 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/repository.dart                               | Dart     |         10 |          0 |          2 |         12 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/data/sp.dart                                       | Dart     |          3 |          0 |          0 |          3 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/utils/api_heper.dart                               | Dart     |        -87 |         63 |         23 |         -1 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/utils/http_client.dart                             | Dart     |        -24 |         24 |          0 |          0 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/utils/http_util.dart                               | Dart     |         85 |         69 |          8 |        162 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/widgets/dialog_widget.dart                         | Dart     |          1 |          0 |          0 |          1 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/widgets/lan_dropdwon_widget.dart                   | Dart     |         52 |          0 |          4 |         56 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/widgets/textfild_widget.dart                       | Dart     |       -266 |        -43 |        -20 |       -329 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/widgets/textfileds_widget.dart                     | Dart     |        909 |         99 |         62 |      1,070 |
+| /Users/estai/Desktop/W/tasu_front/lib/global/widgets/widgets.dart                               | Dart     |         -1 |          0 |          1 |          0 |
+| /Users/estai/Desktop/W/tasu_front/lib/main.dart                                                 | Dart     |         -3 |          7 |          1 |          5 |
+| /Users/estai/Desktop/W/tasu_front/lib/test.dart                                                 | Dart     |        143 |         49 |         19 |        211 |
+| Total                                                                                           |          |      3,834 |        664 |        362 |      4,860 |
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

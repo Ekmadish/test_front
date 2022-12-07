@@ -1,0 +1,156 @@
+{
+"l_Company":"Компания",
+"l_Name" :"Аты",
+"l_Bin" :  "БИН",
+"l_AddTime":"Қосылған уақыт",
+"l_UpdateTime":"Жаңартылған уақыт",
+"l_Time":"Уақыт",
+"l_Save":"Сақтау",
+"l_Home":"Басты бет",
+"l_NewAdd":"Жаңадан қосу",
+"l_Info":"Ақпарат",
+"l_LegalId":"Заңды өкіл идентификаторы",
+"l_LegalName":"Заңды өкілдің аты-жөні",
+"l_businessLicenseUrl":"Бизнес лицензиясының URL",
+"l_ConfirmPassword":"Құпия сөзді Растау",
+"l_Password":"Құпия сөз",
+"l_UserName":"Пайдаланушы аты",
+"l_Surname":"Тегі",
+"l_GivenName":"Есім",
+"l_Phone":"Телефон",
+"l_Email":"Электрондық пошта",
+"l_CompanyName":"Компанияның Аты",
+"l_Logout":"Шығу",
+"l_AdminList":"Администратор тізімі",
+"l_UserList":"Пайдаланушы тізімі",
+"l_Statistics":"Статистика",
+"l_Profile":"Профиль",
+"l_About":"Tуралы",
+"l_Error":"Қате",
+"l_Add":"Қосу",
+"l_Update":"Жаңарту",
+"l_PickImage":"Кескінді таңдаңыз",
+"l_Search":"Іздеу",
+"l_Birthday":"Туған күн",
+"l_Gender":"Жыныс",
+"l_Edit":"Өңдеу",
+"l_IsVerify":"Тексерілді",
+"l_isSuper":"Супер пайдаланушы",
+"l_No":"Жоқ",
+"l_Yes":"Иә",
+"l_DeleteSure":"Бұл элементті шынымен жойғыңыз келе ме?",
+"l_Delete":"Жою?",
+"l_Login":"Кіру",
+"l_Request":"Сұраныс",
+"l_Orders":"Тапсырыстар",
+"l_Finance":"Қаржы",
+"l_Clients":"Клиенттер",
+"l_Carries":"Тасымал",
+"l_Reports":"Есептер",
+"l_Documents":"Құжаттар",
+"l_Calendar":"Күнтізбе",
+"l_Task":"Тапсырма",
+"l_Settings":"баптау",
+"l_NewCompany":"Жаңа компания қосу",
+"l_EditCompany":"Компанияны өңдеу",
+"l_Organization":"Ұйымдастыру",
+"l_Templates":"Үлгілер",
+
+"organization":"Ұйымдастыру",
+ "templates":"Үлгілер",
+ "classifiers":"Жіктеуіштер",
+ "system":"Жүйе",
+ "payment":"Төлем",
+ "log":"Журнал",
+
+
+
+
+ "l_OrgSection" :"Ұйымдастыру бөлімі",
+ "l_BasicInformation":"Негізгі ақпарат",
+ "l_Banks":"Банктер",
+ "l_Signature":"Қол қою",
+
+
+ "l_Directorsfullname":"Полное имя директора",
+ "l_Post":"Пост",
+ "l_Pricingtype":"Баға түрі",
+ "l_Nameinoriginal":"Түпнұсқадағы аты",
+ "l_Inthenameofwhom":"Кімнің атынан",
+ "l_VATrate":"ҚҚС мөлшерлемесі",
+ "l_Companycode":"Компания коды",
+ "l_VATcode":"ҚҚС коды",
+ "l_RRC":"RRC",
+ "l_CorrespondentAccoun":"Корреспонденттік шот",
+ "l_OGRN":"OGRN",
+ "l_Contactinformation":"Байланыс ақпараты",
+ "l_Country":"Ел",
+ "l_Address":"Мекенжай",
+ "l_Telephone":"Телефон",
+ "l_MainCompany":"Негізгі компания",
+ "l_City":"Қала",
+ "l_PostCode":"Пошта индексі",
+ "l_Fax":"Факс",
+ "l_Website":"Веб-сайт",
+ "l_Correspondentinformation":"Корреспонденттік ақпарат",
+
+ "l_Dinvoicesfordcurrencies":"Әртүрлі валюталар үшін әртүрлі шот-фактуралар",
+ "l_Currency":"Валюта",
+ "l_OperatingAccount":"Операциялық шот",
+ "l_CorrespondentBank":"Корреспондент банк",
+ "l_BankCode":"Банк коды",
+ "l_Bank":"Банк",
+ "l_Print":"Басып шығару",
+ "l_CompanyLogotype":"Компания логотипі",
+
+ "l_ClassifiersSection":"Классификациялар бөлімі"
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,73 @@
+name: tasu
+description: A new Flutter project.
+ 
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+ 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+localization_dir: langs
+ 
+dependencies:
+  
+  flutter:
+    sdk: flutter
+ 
+  cupertino_icons: ^1.0.2
+  flutter_localizations: 
+    sdk: flutter 
+  # global:
+  #   path: packages/global
+  # admin:
+  #   path: packages/admin
+  # client:
+  #   path: packages/client
+
+  #router
+  go_router: ^4.3.0 
+  # state lib
+  flutter_bloc: ^8.1.1 
+  equatable: ^2.0.5 
+  provider: ^6.0.3
+  # database
+  # flutter_secure_storage: ^6.0.0 
+  shared_preferences: ^2.0.15
+  # network
+  dio: ^4.0.6
+  # util
+  fluttertoast: ^8.0.9
+  url_launcher: ^6.1.5 
+  flutter_svg: ^1.1.4 
+  get_it: ^7.2.0
+  # test
+  intl: ^0.17.0
+  localization: ^2.1.0
+  file_picker: ^4.6.1 
+  linked_scroll_controller: ^0.2.0 
+
+  # delete 
+  logger: ^1.1.0 
+  flutter_displaymode: ^0.4.0
+  
+     
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter 
+  flutter_lints: ^2.0.0
+  
+ 
+flutter:
+ 
+  uses-material-design: true
+  generate: true 
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/langs/
+    # - assets/langs/en_US.json
+    # - assets/langs/kk_KK.json
+    # - assets/langs/ru_RU.json
+ 

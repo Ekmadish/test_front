@@ -1,0 +1,150 @@
+{
+  "l_Company":"Компания"  ,
+  "l_Name" :"Имя",
+  "l_Bin" :  "БИН",
+  "l_AddTime":"Добавлено время",
+"l_UpdateTime":"Обновленное время",
+"l_Time":"Время",
+"l_Save":"Сохранять",
+"l_Home":"Главная страница",
+"l_NewAdd":"Добавить",
+"l_Info":"Информация",
+"l_LegalId":"Идентификатор юридического представителя",
+"l_LegalName":"Имя законного представителя",
+"l_businessLicenseUrl":"URL-адрес бизнес-лицензии",
+"l_ConfirmPassword":"Подтвердить Пароль",
+"l_Password":"Пароль",
+"l_UserName":"Имя пользователяы",
+"l_Surname":"Фамилия",
+"l_GivenName":"Собственное имя",
+"l_Phone":"Телефон",
+"l_Email":"Эл. адрес",
+"l_CompanyName":"Название компании",
+"l_Logout":"Выйти",
+"l_AdminList":"Список администраторов",
+"l_UserList":"Список пользователей",
+"l_Statistics":"Статистика",
+"l_Profile":"Профиль",
+"l_About":"О",
+"l_Error":"Ошибка",
+"l_Add":"Добавлять",
+"l_Update":"Обновлять",
+"l_PickImage":"Выбрать изображение",
+"l_Search":"Поиск",
+"l_Birthday":"День рождения",
+"l_Gender":"Пол",
+"l_Edit":"Редактировать",
+"l_IsVerify":"Проверено",
+"l_isSuper":"Суперпользователь",
+"l_No":"Нет",
+"l_Yes":"Да",
+"l_DeleteSure":"Вы уверены, что хотите удалить этот элемент?",
+"l_Delete":"Удалить?",
+"l_Login":"Авторизоваться",
+"l_Request":"Запрос",
+"l_Orders":"Заказы",
+"l_Finance":"Финансы",
+"l_Clients":"Клиенты",
+"l_Carries":"Носит",
+"l_Reports":"Отчеты",
+"l_Documents":"Документы",
+"l_Calendar":"Календарь",
+"l_Task":"Задача",
+"l_Settings":"Настройки",
+"l_NewCompany":"Новая компания",
+"l_EditCompany":"Изменить компанию",
+"l_Organization":"Организация",
+"l_Templates":"Шаблоны",
+
+"organization":"Организация",
+ "templates":"Шаблоны",
+ "classifiers":"Классификаторы",
+ "system":"Система",
+ "payment":"Оплата",
+ "log":"Журнал",
+
+
+ "l_OrgSection" :"Раздел организации",
+ "l_BasicInformation":"Основная информация",
+ "l_Banks":"банки",
+ "l_Signature":"Подпись",
+
+ "l_Directorsfullname":"Директорлардың толық аты-жөні",
+ "l_Post":"Почта",
+ "l_Pricingtype":"Тип ценообразования",
+ "l_Nameinoriginal":"Имя в оригинале",
+ "l_Inthenameofwhom":"Во имя кого",
+ "l_VATrate":"Ставка НДС",
+ "l_Companycode":"Код компании",
+ "l_VATcode":"Код НДС",
+ "l_RRC":"РКР",
+ "l_CorrespondentAccoun":"Корреспондентский счет",
+ "l_OGRN":"ОГРН",
+ "l_Contactinformation":"Контакты",
+ "l_Country":"Страна",
+ "l_Address":"Адрес",
+ "l_Telephone":"телефон",
+ "l_MainCompany":"Основная компания",
+ "l_City":"Город",
+ "l_PostCode":"Почтовый индекс",
+ "l_Fax":"Факс",
+ "l_Website":"Веб-сайт",
+ "l_Correspondentinformation":"Корреспондентская информация",
+
+ "l_Dinvoicesfordcurrencies":"Разные счета для разных валют",
+ "l_Currency":"Валюта",
+ "l_OperatingAccount":"Операционный счет",
+ "l_CorrespondentBank":"ВалютаОперационный счет",
+ "l_BankCode":"код банка",
+ "l_Bank":"Банк",
+ "l_Print":"Распечатать",
+ "l_CompanyLogotype":"Логотип компании",
+
+ "l_ClassifiersSection":"Раздел Классификаторы"
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

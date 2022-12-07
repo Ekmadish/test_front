@@ -1,0 +1,124 @@
+{
+  "l_Company":"Company" ,
+"l_Name" :"Name",
+"l_Bin" :"BIN",
+"l_AddTime":"Added time",
+"l_UpdateTime":"Updated time",
+"l_Time":"Time",
+"l_Home":"Home",
+"l_Save":"Save",
+"l_NewAdd":"Add",
+"l_Info":"Info",
+"l_LegalId":"Legal Representative Id",
+"l_LegalName":"Legal Representative Name",
+"l_businessLicenseUrl":"Business License Url",
+"l_ConfirmPassword":"Confirm Password",
+"l_Password":"Password",
+"l_UserName":"UserName",
+"l_Surname":"Surname",
+"l_GivenName":"GivenName",
+"l_Phone":"Phone",
+"l_Email":"Email",
+"l_CompanyName":"Company Name",
+"l_Adminlist":"Admin list",
+"l_Logout":"Logout",
+"l_AdminList":"Admin List",
+"l_UserList":"User List",
+"l_Statistics":"Statistics",
+"l_Profile":"Profile",
+"l_About":"About",
+"l_Error":"Error",
+"l_Add":"Add",
+"l_Update":"Update",
+"l_PickImage":"Pick Image",
+"l_Search":"Search",
+"l_Birthday":"Birthday",
+"l_Gender":"Gender",
+"l_Edit":"Edit",
+"l_IsVerify":"IsVerify",
+"l_isSuper":"Super user",
+"l_No":"No",
+"l_Yes":"Yes",
+"l_DeleteSure":"Are you sure you want to delete this item?",
+"l_Delete":"Delete?",
+"l_Login":"Login",
+"l_Request":"Request",
+"l_Orders":"Orders",
+"l_Finance":"Finance",
+"l_Clients":"Clients",
+"l_Carries":"Carries",
+"l_Reports":"Reports",
+"l_Documents":"Documents",
+"l_Calendar":"Calendar",
+"l_Task":"Task",
+"l_Settings":"Settings",
+"l_NewCompany":"New company",
+"l_EditCompany":"Company editing",
+
+"organization":"Organization",
+ "templates":"Templates",
+ "classifiers":"Classifiers",
+ "system":"System",
+ "payment":"Payment",
+ "log":"Log",
+
+
+
+ "l_OrgSection" :"Organization section",
+ "l_BasicInformation":"Basic Information",
+ "l_Banks":"Banks",
+ "l_Signature":"Signature",
+
+ "l_Directorsfullname":"Directors full name",
+ "l_Post":"Post",
+ "l_Pricingtype":"Pricing type",
+ "l_Nameinoriginal":"Name in original",
+ "l_Inthenameofwhom":"In the name of whom",
+ "l_VATrate":"VAT rate",
+ "l_Companycode":"Company code",
+ "l_VATcode":"VAT code",
+ "l_RRC":"RRC",
+ "l_CorrespondentAccoun":"Correspondent accoun",
+ "l_OGRN":"OGRN",
+ "l_Contactinformation":"Contact information",
+ "l_Country":"Country",
+ "l_Address":"Address",
+ "l_Telephone":"Telephone",
+ "l_MainCompany":"Main company",
+ "l_City":"City",
+ "l_PostCode":"Postcode",
+ "l_Fax":"Fax",
+ "l_Website":"Website",
+ "l_Correspondentinformation":"Correspondent information",
+
+ "l_Dinvoicesfordcurrencies":"Different invoices for different currencies",
+ "l_Currency":"Currency",
+ "l_OperatingAccount":"Operating account",
+ "l_CorrespondentBank":"Correspondent bank",
+ "l_BankCode":"Bank code",
+ "l_Bank":"Bank",
+ "l_Print":"Print",
+ "l_CompanyLogotype":"Company logotype",
+
+ "l_ClassifiersSection":"Classifiers section"
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+    
+
+
+
+ 
+
+
+
+
+}
